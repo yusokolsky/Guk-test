@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/ItemList/ItemList.scss"],"names":[],"mappings":"AAAA,WACE,SAAU,CACV,aAAc,CACf,qCAGC,WACE,UAAW,CACZ","file":"main.9e39610a.chunk.css","sourcesContent":[".item-page {\r\n  width: 60%;\r\n  margin: 0 auto;\r\n}\r\n\r\n@media screen and (max-width: 1024px) {\r\n  .item-page{\r\n    width: 100%;\r\n  }\r\n}"]}
